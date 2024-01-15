@@ -9,7 +9,7 @@ namespace Trabajo_final_primer_etapa_
    public class Venta
     {
         protected long Id;
-        protected long Comentarios;
+        protected string Comentarios;
         protected long IdUsuarios;
     }
 }

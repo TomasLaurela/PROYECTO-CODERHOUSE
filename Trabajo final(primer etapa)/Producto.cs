@@ -9,7 +9,7 @@ namespace Trabajo_final_primer_etapa_
     public class Producto
     {
         protected long id;
-        protected long descripcion;
+        protected string descripcion;
         protected long Costo;
         protected long PrecioVenta;
         protected long Stock;

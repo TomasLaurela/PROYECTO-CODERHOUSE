@@ -1,0 +1,14 @@
+C:\Users\TomasLaurela\source\repos\Trabajo final(primer etapa)\Trabajo final(primer etapa)\bin\Debug\net8.0\Trabajo final(primer etapa).exe
+C:\Users\TomasLaurela\source\repos\Trabajo final(primer etapa)\Trabajo final(primer etapa)\bin\Debug\net8.0\Trabajo final(primer etapa).deps.json
+C:\Users\TomasLaurela\source\repos\Trabajo final(primer etapa)\Trabajo final(primer etapa)\bin\Debug\net8.0\Trabajo final(primer etapa).runtimeconfig.json
+C:\Users\TomasLaurela\source\repos\Trabajo final(primer etapa)\Trabajo final(primer etapa)\bin\Debug\net8.0\Trabajo final(primer etapa).dll
+C:\Users\TomasLaurela\source\repos\Trabajo final(primer etapa)\Trabajo final(primer etapa)\bin\Debug\net8.0\Trabajo final(primer etapa).pdb
+C:\Users\TomasLaurela\source\repos\Trabajo final(primer etapa)\Trabajo final(primer etapa)\obj\Debug\net8.0\Trabajo final(primer etapa).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TomasLaurela\source\repos\Trabajo final(primer etapa)\Trabajo final(primer etapa)\obj\Debug\net8.0\Trabajo final(primer etapa).AssemblyInfoInputs.cache
+C:\Users\TomasLaurela\source\repos\Trabajo final(primer etapa)\Trabajo final(primer etapa)\obj\Debug\net8.0\Trabajo final(primer etapa).AssemblyInfo.cs
+C:\Users\TomasLaurela\source\repos\Trabajo final(primer etapa)\Trabajo final(primer etapa)\obj\Debug\net8.0\Trabajo final(primer etapa).csproj.CoreCompileInputs.cache
+C:\Users\TomasLaurela\source\repos\Trabajo final(primer etapa)\Trabajo final(primer etapa)\obj\Debug\net8.0\Trabajo final(primer etapa).dll
+C:\Users\TomasLaurela\source\repos\Trabajo final(primer etapa)\Trabajo final(primer etapa)\obj\Debug\net8.0\refint\Trabajo final(primer etapa).dll
+C:\Users\TomasLaurela\source\repos\Trabajo final(primer etapa)\Trabajo final(primer etapa)\obj\Debug\net8.0\Trabajo final(primer etapa).pdb
+C:\Users\TomasLaurela\source\repos\Trabajo final(primer etapa)\Trabajo final(primer etapa)\obj\Debug\net8.0\Trabajo final(primer etapa).genruntimeconfig.cache
+C:\Users\TomasLaurela\source\repos\Trabajo final(primer etapa)\Trabajo final(primer etapa)\obj\Debug\net8.0\ref\Trabajo final(primer etapa).dll

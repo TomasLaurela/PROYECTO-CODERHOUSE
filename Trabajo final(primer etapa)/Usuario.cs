@@ -9,10 +9,12 @@ namespace Trabajo_final_primer_etapa_
     public class Usuario
     {
         protected long Id;
-        protected long Nombre;
-        protected long Apellido;
-        protected long NombreUsuario;
+        protected string Nombre;
+        protected string Apellido;
+        protected string NombreUsuario;
         protected long Contraseña;
-        protected long Mail;
+        protected string Mail;
+
+
     }
 }
